@@ -9,7 +9,7 @@ Retrieve the finance data from yahoo
 Store into a dictionary
 Export to CSV if needed
 For more information regarding yfinance, refer to https://pypi.org/project/yfinance/
-*Do take note the function has been deprecated
+*Do take note the yahoo query function has been deprecated
 
 3. The purpose is to show how morningstar data can be retrieved from the website using request. The information can then be exported into a CSV if needed or it can be manipulated in python.
 Get all website links to relevant funds
